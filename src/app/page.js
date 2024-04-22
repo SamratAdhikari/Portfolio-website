@@ -2,7 +2,7 @@ import Image from "next/image";
 
 import bg from '../../public/background/home-bg.png'
 import RenderModel from "./components/RenderModel";
-import Wizard from "./components/Wizard";
+import Book from "./components/Book";
 import Navigation from "./components/navigation";
 
 <link rel="icon" type="image/x-icon" href="./favicon.ico"></link>
@@ -17,7 +17,8 @@ export default function Home() {
         {/* navigation and 3d model */}
         <Navigation/>
         <RenderModel>
-          <Wizard/>
+          {/* <Wizard/> */}
+          <Book/>
         </RenderModel>
 
       </div>
