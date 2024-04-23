@@ -33,7 +33,7 @@ export const projectsData = [
   },
   {
     id: 3,
-    name: "QGen",
+    name: "Q-tips",
     description: "Que & Ans generator from text",
     date: "2024-03-30",
     demoLink: "https://github.com/SamratAdhikari/Question-Answer-Generator",
@@ -54,7 +54,7 @@ export const projectsData = [
   },
   {
     id: 6,
-    name: "AnthemUnity",
+    name: "AnthemClub",
     description: "A national anthems custering model",
     date: "2023-10-15",
     demoLink: "https://github.com/SamratAdhikari/National-Anthem-Clustering",
