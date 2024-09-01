@@ -17,6 +17,7 @@ export default function Home() {
                 src={bg}
                 alt="background-image"
                 className="fixed top-0 left-0 w-full h-full -z-50 object-cover object-center opacity-25"
+                priority={true}
             />
             <ProjectList projects={projectsData} />
             <div

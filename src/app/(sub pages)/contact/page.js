@@ -14,6 +14,7 @@ export default function Contact() {
                 src={bg}
                 alt="background-image"
                 className="fixed top-0 left-0 w-full h-full -z-50 object-cover object-center opacity-25"
+                priority={true}
             />
             <article className="relative w-full flex flex-col items-center justify-center py-8 sm:py-0 space-y-8">
                 <div className="flex flex-col items-center justify-center space-y-6 w-full sm:w-3/4">
