@@ -50,7 +50,7 @@ export const projectsData = [
         name: "Sambadh",
         description: "A chatapp for seamless communication",
         date: "2021-11-21",
-        demoLink: "https://sambadh.herokuapp.com/",
+        demoLink: "https://sambadh.up.railway.app/",
     },
     {
         id: 6,
