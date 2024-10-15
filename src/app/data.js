@@ -83,7 +83,7 @@ export const projectsData = [
     {
         id: 10,
         name: "Slime Mold Simulation",
-        description: "A pygame app that simulates the movement of slime molds",
+        description: "An illustration of the behavior of slime molds",
         date: "2024-06-13",
         demoLink: "https://mr-yeti.itch.io/slime-mold",
     },
@@ -96,7 +96,7 @@ export const projectsData = [
     },
     {
         id: 12,
-        name: "A*",
+        name: "A* algorithm",
         description: "A pathfinding algorithm created in pygame",
         date: "2024-06-15",
         demoLink: "https://mr-yeti.itch.io/a-star",
