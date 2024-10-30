@@ -22,7 +22,7 @@ export const projectsData = [
         name: "SignScribe",
         description: "Sign language classification",
         date: "2023-07-14",
-        demoLink: "https://github.com/SamratAdhikari/SignScribe",
+        demoLink: "https://sign-scribe.vercel.app/",
     },
     {
         id: 2,
