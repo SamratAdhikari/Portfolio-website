@@ -71,7 +71,7 @@ export const projectsData = [
         name: "PennyWise",
         description: "An expense tracker webapp",
         date: "2024-01-12",
-        demoLink: "https://github.com/SamratAdhikari/PennyWise",
+        demoLink: "https://thepennywise.vercel.app/",
     },
     {
         id: 9,
