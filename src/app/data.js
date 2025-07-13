@@ -50,7 +50,7 @@ export const projectsData = [
         name: "TheMoodFlix",
         description: "A movies and books recommendation webapp.",
         date: "2024-10-14",
-        demoLink: "https://themoodflix.streamlit.app/",
+        demoLink: "https://mryeti-themoodflix.hf.space/",
     },
     {
         id: 6,
